@@ -451,7 +451,7 @@ strong {
 }
 
 #backTop.custom {
-  background: #3f96cc;
+  background: #ed2028;
   border: 0px solid #90c2e1;
   -webkit-transition: 0.2s 0.2s ease-in-out;
   -moz-transition: 0.2s 0.2s ease-in-out;
@@ -3147,7 +3147,7 @@ ul.custom-bullet-list li:before {
 }
 .highlight-icon-padding figure i.fa {
   font-size: 24px;
-  color: #ed2028;
+  color: #111111;
 }
 .highlight-icon-padding:hover i.fa {
   color: #111111;
@@ -3598,7 +3598,7 @@ ul.custom-bullet-list li:before {
 }
 .service-block-2 h3,
 .service-block-2 h3 a {
-  font-size: 24px;
+  font-size: 22px;
   line-height: 32px;
   letter-spacing: 0em;
   margin-top: -32px;
@@ -5000,7 +5000,7 @@ a.btn-cta-2:hover {
   margin: 0 0 0px 0;
   padding-bottom: 32px;
 }
-.appointment-form-wrapper.light-layout .appointment-form-heading .form-title:after {
+/* .appointment-form-wrapper.light-layout .appointment-form-heading .form-title:after {
   width: 60px;
   height: 5px;
   position: absolute;
@@ -5008,8 +5008,8 @@ a.btn-cta-2:hover {
   left: 50%;
   top: 60px;
   margin-left: -30px;
-  background: #3f96cc;
-}
+  background: #ed2028;
+} */
 .appointment-form-wrapper.light-layout .appointment-form-heading.text-left {
   clear: both;
 }
